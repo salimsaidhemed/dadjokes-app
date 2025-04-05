@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.swp
+
+# Env
+.env
+venv/
+.env.*
+
+# Node
+node_modules/
+dist/
